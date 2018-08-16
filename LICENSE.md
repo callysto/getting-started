@@ -33,4 +33,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Trademark
 
-Callysto and its logo are trademarks of [Cybera](www.cybera.ca) and [the Pacific Institute of Mathematical Sciences](www.pims.math.ca/).
+Callysto and its logo are trademarks of [Cybera](https://www.cybera.ca) and [the Pacific Institute of Mathematical Sciences](https://www.pims.math.ca/).

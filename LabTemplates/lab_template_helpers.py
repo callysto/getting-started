@@ -156,7 +156,7 @@ class easy_table:
             print("Cannot find the file " + name + ", please check that the path is correct.")
             return
 
-        return qgrid.QgridWidget(df=df, show_toolbar=True)
+        return qgrid.show_grid(df, show_toolbar=True)
     @staticmethod
     def save_table(name, save_name):
         '''

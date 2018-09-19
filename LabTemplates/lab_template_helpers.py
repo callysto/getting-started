@@ -11,6 +11,12 @@ from IPython import display
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from plotly.graph_objs import *
 
+# Hiding warnings for demos for plotly depreciation 
+# TODO: Fix this appropriately without just just ignoring it.
+
+import warnings
+warnings.filterwarnings("ignore")
+
 
 class easy_table:
     '''

@@ -155,7 +155,9 @@ class easy_table:
         except FileNotFoundError:
             print("Cannot find the file " + name + ", please check that the path is correct.")
             return
-
+        
+        # This lets us scroll large data sets. 
+        qgrid.set_grid_option('forceFitColumns', False)
         return qgrid.show_grid(df, show_toolbar=True)
     @staticmethod
     def save_table(name, save_name):

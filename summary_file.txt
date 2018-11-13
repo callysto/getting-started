@@ -1,0 +1,186 @@
+__________________________________
+Working on:  ../getting-started/Technology/Digital Journal/Summer Camp Digital Journal.ipynb
+__________________________________
+
+Finding matching URL link for the image:  media/image.png - NEED NOT BE REPLACED. THIS IS A LOGO.
+Here's all the best matches for the image: 
+https://callysto.ca/wp-content/uploads/2018/05/Callysto-Logos_Screen_Icon.png
+https://i0.wp.com/callysto.ca/wp-content/uploads/2018/03/site-logo.png?fit=489%2C468&ssl=1
+
+__________________________________
+Working on:  ../getting-started/General Science/Climate Change.ipynb
+__________________________________
+
+Finding matching URL link for the image:  ./gif/ice_concentration.gif - NEED NOT BE REPLACED. GIF CREATED WHILE RUNNING NOTEBOOK.
+Image not found in your local repository.
+
+__________________________________
+Working on:  ../getting-started/General Science/Investigating_electrical_conductivity.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/conductivity.jpg
+REPLACED WITH - https://www.jonar.com/wp-content/uploads/2017/10/robot.jpg
+
+Here's all the best matches for the image: 
+https://spleisprod.s3.amazonaws.com/uploads/projects/26077/description/HJsrJz94z.jpg
+https://www.jonar.com/wp-content/uploads/2017/10/robot.jpg
+http://2.bp.blogspot.com/-QqQDiW31bAU/WMH7jW5R5qI/AAAAAAAAAbk/y9Pz8wFCaqgouEfJqjshTlePuKrNBf8ZgCK4B/s1600/AdobeStock_121661272.jpeg
+https://pixfeeds.com/images/science-projects/1280-611764652-electronic-kit.jpg
+https://i1.wp.com/laingenieriaentusmanos.com/wp-content/uploads/2018/07/concurso_escolar_ingenieria_bachillerato.jpg?fit=1240%2C827&ssl=1
+https://www.primotoys.com/wp-content/uploads/2017/07/iStock-611764652-1024x683.jpg
+http://pdlisa.me/wp-content/uploads/2018/04/coding-toys-for-toddlers-stem-toys-for-kids-educational-toys-for-children-best-coding-toys-toddlers.jpg
+
+__________________________________
+Working on:  ../getting-started/OpenDataExamples/Intro to open data.ipynb
+__________________________________
+
+Finding matching URL link for the image:  http://www.cybera.ca/wp-content/uploads/resizedimage400259-data02-small.jpg
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  http://www.cybera.ca/wp-content/uploads/2018/08/Open-data-notebook-label-example.png
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  https://i.stack.imgur.com/TXh8D.png
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  https://blog.batchgeo.com/wp-content/uploads/2017/01/wikipedia-latitude-longitude.jpg
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  https://d2vlcm61l7u1fs.cloudfront.net/media%2Fa06%2Fa06ec409-9969-49bc-ba79-ff006fb92b21%2FphpokoeJU.png
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  http://www.cybera.ca/wp-content/uploads/2018/08/whitehorse-data.jpg
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+__________________________________
+Working on:  ../getting-started/OpenDataExamples/Importing and working with open data.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/car_data_screen.png - NEED NOT BE REPLACED. THIS IS A SCREENSHOT.
+No matching url found
+
+Finding matching URL link for the image:  images/downloadscreen.png - NEED NOT BE REPLACED. THIS IS A SCREENSHOT.
+Here's all the best matches for the image: 
+https://d2vlcm61l7u1fs.cloudfront.net/media%2Fd29%2Fd2944ef6-bd53-4a61-b985-f7dc951eb9c2%2FphplRBud8.png
+https://www.nclouds.com/blog/wp-content/uploads/2017/05/kms-chef-image2.png
+http://1.bp.blogspot.com/-fRjtzfzfVXs/VkLZSIKgZ5I/AAAAAAAAEzw/FfaQ1R7SWnI/w1200-h630-p-k-no-nu/oCam_v157_trojan.jpg
+https://i.blogs.es/633d44/psn-gratis/1024_2000.png
+https://studfiles.net/html/2706/161/html_GgzeOIkxfo.yq8w/img-Z6B4NT.png
+http://oaym3d44d.bkt.clouddn.com/1097102-bfeabd995b2e403b.png
+https://appliaz.com/wp/wp-content/uploads/2018/01/2018-01-03-10.52.17.jpg
+https://i.blogs.es/633d44/psn-gratis/650_1200.png
+
+Finding matching URL link for the image:  images/error.png - NEED NOT BE REPLACED.
+No matching url found
+
+__________________________________
+Working on:  ../getting-started/OpenDataExamples/Lottery.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/lotto.png - NEED NOT BE REPLACED. JUST A SCREENSHOT OF LINKED DATASET.
+No matching url found
+
+
+__________________________________
+Working on:  ../getting-started/Math/Reflections/reflections.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/cat_fight.jpg
+
+REPLACED WITH: http://teejaw.com/wp-content/uploads/2012/11/cat_fight.jpg
+
+Here's all the best matches for the image: 
+http://2.bp.blogspot.com/-juU8sd9k9_M/U68C935sNHI/AAAAAAAABcc/6_5gpuA6GW4/s1600/cat_fight.jpg
+https://i0.wp.com/decorworldng.com/wp-content/uploads/2018/08/cat-mirror-h-t-draper-cat-sees-self-in-mirror-gif.jpg
+http://teejaw.com/wp-content/uploads/2012/11/cat_fight.jpg
+http://animaals.com/wp-content/uploads/2015/06/chat-miroir-6.jpg?x61635
+https://pic3.zhimg.com/v2-d3b89a9a31ed35a56f3d8bcbd5160b6a_b.jpg
+https://pic3.zhimg.com/80/v2-d3b89a9a31ed35a56f3d8bcbd5160b6a_hd.jpg
+http://funnyneel.com/sites/default/files/images/images/Funny%20Cat%20Picture%20-%20Kitten%20(110).png
+
+Finding matching URL link for the image:  images/ggb1.png
+No matching url found
+
+Finding matching URL link for the image:  images/ggb2.png
+No matching url found
+
+__________________________________
+Working on:  ../getting-started/tutorials/JupyterTestdrive-MarkDown.ipynb
+__________________________________
+
+Finding matching URL link for the image:  https://media.giphy.com/media/gVoBC0SuaHStq/giphy.gif
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+Finding matching URL link for the image:  https://media.giphy.com/media/fs6rnt1K0YyVWRXNwY/giphy.gif
+This is a web link to the image. Verify if you have referenced it's open source licensing.
+
+__________________________________
+Working on:  ../getting-started/Physics/Nuclear.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/nuclear_decay.png
+No matching url found
+
+Finding matching URL link for the image:  images/proton_decay_.png
+No matching url found
+
+__________________________________
+Working on:  ../getting-started/WebScraping/Web-scraping-NHL-Playoff-Pace.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/cgy_standings.png - NEED NOT BE REPLACED. JUST A SCREENSHOT OF A WEBPAGE
+No matching url found 
+
+Finding matching URL link for the image:  images/cgy_excel.png - NEED NOT BE REPLACED.
+Here's all the best matches for the image: 
+https://blog.faradars.org/wp-content/uploads/2018/03/Picture1-47.png
+https://static.makeuseof.com/wp-content/uploads/2015/05/excel-asc.jpg
+https://www.mapgrove.com/wp-content/uploads/2015/08/screen-2-300x228.png
+https://i2.wp.com/3.bp.blogspot.com/-IbFEcBMU0ps/UK_n3rzURiI/AAAAAAAAFUk/moAeYzSPTZQ/s400/vin-2.0-2.png?resize=400%2C156
+
+Finding matching URL link for the image:  images/cgy_excel_graph.png - NEED NOT BE REPLACED.
+Here's all the best matches for the image: 
+http://www.vividracing.com/catalog/images/ap350pulleydyno.jpg
+https://www.horsepowerfreaks.com/images/AP-Z33-130_4.jpg
+
+__________________________________
+Working on:  ../getting-started/WebScraping/web-scraping.ipynb
+__________________________________
+
+Finding matching URL link for the image:  images/website-to-scrape.png - NEED NOT BE REPLACED.
+No matching url found 
+
+Finding matching URL link for the image:  images/chrome-menu.png
+No matching url found
+
+Finding matching URL link for the image:  images/more-tools.png
+No matching url found
+
+Finding matching URL link for the image:  images/developer-tools.png
+No matching url found
+
+Finding matching URL link for the image:  images/devtools-screen.png
+No matching url found
+
+Finding matching URL link for the image:  images/inspect-element.png
+No matching url found
+
+Finding matching URL link for the image:  images/quote-span.png
+No matching url found
+
+Finding matching URL link for the image:  images/quote-location.png - NEED NOT BE REPLACED. THIS IS JUST A SCREENSHOT.
+Here's all the best matches for the image: 
+https://i.stack.imgur.com/qtwuq.png
+https://us.v-cdn.net/5022383/uploads/editor/nc/jo0ql9trdese.png
+
+Finding matching URL link for the image:  images/nav-buttons.png
+No matching url found
+
+Finding matching URL link for the image:  images/inspect-element.png
+No matching url found
+
+Finding matching URL link for the image:  images/next-button.png
+No matching url found
+
+Finding matching URL link for the image:  images/next-location.png
+No matching url found

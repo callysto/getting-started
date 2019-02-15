@@ -14,7 +14,7 @@ from time import sleep
 
 
 # Download raw html data
-def download_raw_data(province,start_year,max_pages=2):
+def download_raw_data(province,start_year,max_pages=4):
     
     try:
         if province in {'BC','PE','NS','NL','NB','QC','ON','MB','SK','AB','YT','NT'} and type(start_year)==str and len(start_year)==4 and type(max_pages)==int:
@@ -24,7 +24,6 @@ def download_raw_data(province,start_year,max_pages=2):
             for i in tnrange(max_pages, desc='Downloading Data'):
                 startRow = 1 + i*100
                 sleep(0.01)
-    
                 base_url = "http://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?"
                 queryProvince = "searchType=stnProv&timeframe=1&lstProvince={}&optLimit=yearRange&".format(province)
                 queryYear = "StartYear={}&EndYear=2018&Year=2018&Month=12&Day=10&selRowPerPage=100&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongMin=0&txtCentralLongSec=0&".format(start_year)
